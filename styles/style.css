@@ -1,0 +1,48 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Work Sans", sans-serif;
+}
+
+/* Header */
+header {
+    background-image: url(../images/banner/banner1.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    text-align: end;
+}
+
+.header-items {
+    width: 60%;
+    margin-left: auto;
+    padding: 100px;
+}
+
+.header-heading {
+    font-size: 65px;
+    color: #151414;
+    font-weight: 700;
+}
+
+.header-text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+
+.primary-btn {
+    padding: 20px 25px;
+    background-color: rgb(241, 91, 34);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+/* First Section */
