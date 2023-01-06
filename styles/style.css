@@ -159,3 +159,63 @@ ul li:before {
 }
 
 /* -----------------Footer----------------- */
+footer {
+    height: 577px;
+    background: #151414;
+    color: #f8f8f8;
+    display: flex;
+    padding: 130px 230px 0 230px;
+}
+
+.contact-info {
+    padding-right: 180px;
+}
+
+.socials {
+    display: flex;
+}
+
+.footer-header {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+footer .secondary-btn {
+    margin-top: 16px;
+}
+
+.middle {
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+.subscribe {
+    margin-left: 100px;
+}
+
+.subscribe-heading {
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+input {
+    font-weight: 400;
+    font-size: 18px;
+    border-color: white;
+    padding: 21px;
+    width: 300px;
+    border-radius: 8px;
+    background-color: #151414;
+}
+
+input::placeholder {
+    color: #f3f3f3;
+}
