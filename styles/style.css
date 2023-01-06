@@ -46,3 +46,48 @@ header {
 }
 
 /* First Section */
+.first-section {
+    width: 80%;
+    margin: 130px auto;
+}
+
+.section-contaier {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-1 {
+}
+
+.image-text {
+    margin: auto 0;
+    padding: 0 5%;
+}
+
+.image-h {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.image-p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+
+ul {
+    color: #444343;
+    list-style: none;
+}
+
+li {
+    line-height: 20px;
+}
+
+ul li:before {
+    content: "✓ ";
+    color: rgb(51, 221, 150);
+}
