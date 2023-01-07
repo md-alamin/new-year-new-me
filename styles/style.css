@@ -62,7 +62,7 @@ header {
 .header-items {
     width: 60%;
     margin-left: auto;
-    padding: 100px;
+    padding: 50px 100px 100px 100px;
 }
 
 .header-heading {
