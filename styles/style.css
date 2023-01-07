@@ -132,6 +132,7 @@ button {
 
 .check {
     width: 15px;
+    margin-bottom: -2.5px;
 }
 
 /* ---------------Plans Section--------------- */
